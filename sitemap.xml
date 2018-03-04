@@ -1,37 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            https://andyhubbert94.github.io//jekyll/update/2017/12/17/welcome-to-jekyll.html
-        </loc>
+        <loc>http://physicalitytherapies.uk/jekyll/update/2017/12/17/welcome-to-jekyll.html</loc>
         <lastmod>2018-02-16T17:46:34+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//404.html</loc>
+        <loc>http://physicalitytherapies.uk/404.html</loc>
         <lastmod>2018-02-16T17:46:34+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//aps-therapy/</loc>
+        <loc>http://physicalitytherapies.uk/aps-therapy/</loc>
         <lastmod>2018-02-16T17:46:34+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//about-us/</loc>
+        <loc>http://physicalitytherapies.uk/about-us/</loc>
         <lastmod>2018-02-16T17:46:34+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//contact-us/</loc>
+        <loc>http://physicalitytherapies.uk/contact-us/</loc>
         <lastmod>2018-03-04T19:23:20+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//physiotherapy/</loc>
+        <loc>http://physicalitytherapies.uk/physiotherapy/</loc>
         <lastmod>2018-03-04T19:23:20+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//contact-form/</loc>
+        <loc>http://physicalitytherapies.uk/contact-form/</loc>
         <lastmod>2018-03-04T19:15:49+00:00</lastmod>
     </url>
     <url>
-        <loc>https://andyhubbert94.github.io//</loc>
+        <loc>http://physicalitytherapies.uk/</loc>
         <lastmod>2018-03-04T19:23:20+00:00</lastmod>
     </url>
 </urlset>
