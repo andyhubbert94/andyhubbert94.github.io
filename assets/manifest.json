@@ -2,7 +2,7 @@
   
   "name": "Physicality Therapies",
   "short_name": "Physicality Therapies",
-  "description": "Physicality Therapies is a Physiotherapy Clinic based in Huyton, Liverpool. We provide Quality Assured Physiotherapy and Associated Therapies. We also provide Medico-Legal services to include rehabiliation and medico-legal reports.",
+  "description": "Physicality Therapies is a Physiotherapy Clinic based in Rainhill, Liverpool. We provide Quality Assured Physiotherapy and Associated Therapies. We also provide Medico-Legal services to include rehabiliation and medico-legal reports.",
   "start_url": "/?utm_source=homescreen",
   "theme_color": "#6a9fb5",
   "background_color": "#fff",
@@ -39,4 +39,5 @@
       "type": "image/png",
       "sizes": "576x576"
     }
-  ]}
+  ]
+}
